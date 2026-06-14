@@ -7,4 +7,6 @@ numpy
 pymongo[srv]
 pymongo
 certifi
+dill
+pyaml
 # -e .
